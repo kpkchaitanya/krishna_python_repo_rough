@@ -60,3 +60,6 @@ print(f"Fuel level: {my_new_car.fuel_level} gallons")# import unittest
 
 # Create a new module for Car. Create multiple cars and import them and create a fleet of cars.
 # Then test the fleet of cars.
+# THen Immediately move to Autogen & Langchain & Langgraphs
+
+
